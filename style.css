@@ -1,0 +1,20 @@
+#myH3{
+    text-align: center;
+    font-size: 5em;
+}
+#buttons{
+    text-align: center;
+    font-size: 1.5em;
+}
+.buttons{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    cursor: pointer;
+    color:rgb(217, 222, 175);
+    background-color: rgb(26, 41, 202);
+    font-size: 1.5em;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color: aliceblue;
+}
